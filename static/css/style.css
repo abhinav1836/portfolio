@@ -1,0 +1,22 @@
+body{
+    background: rgb(#9bdaff);
+}
+
+#linkedin{
+    width: 30px;
+}
+
+.email-link:active:hover{
+    background-color: grey;
+}
+
+ul.skill-list{
+    list-style:none;
+}
+
+#disp_msg{
+    position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
